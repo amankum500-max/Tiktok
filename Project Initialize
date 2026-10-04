@@ -1,5 +1,0 @@
-mkdir tiktok-clone && cd tiktok-clone
-mkdir backend && cd backend
-npm init -y
-npm install express mongoose dotenv bcryptjs jsonwebtoken multer cors socket.io cloudinary fluent-ffmpeg
-npm install --save-dev nodemon
